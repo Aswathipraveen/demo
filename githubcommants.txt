@@ -13,3 +13,8 @@ git push -u origin master
 
 git clone "url"
 git pull "url"
+
+
+git branch name 
+git checkout branchname
+git status
